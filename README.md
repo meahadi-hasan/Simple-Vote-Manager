@@ -3,8 +3,6 @@
 This project is a simple Vote Counter web application designed to dynamically manage and display votes. 
 With a clean user interface and interactive buttons, users can increment or decrement the vote count seamlessly.
 
----
-
 ## 📝 Features  
 - **Vote Count Management:** Add or remove votes easily.  
 - **Real-time Update:** Updates the vote count dynamically without refreshing the page.  
