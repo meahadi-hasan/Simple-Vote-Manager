@@ -1,7 +1,9 @@
 # Simple Vote Manager Web App
 
 This project is a simple Vote Counter web application designed to dynamically manage and display votes. 
-With a clean user interface and interactive buttons, users can increment or decrement the vote count seamlessly.  
+With a clean user interface and interactive buttons, users can increment or decrement the vote count seamlessly.
+
+---
 
 ## 📝 Features  
 - **Vote Count Management:** Add or remove votes easily.  
@@ -14,3 +16,4 @@ With a clean user interface and interactive buttons, users can increment or decr
 - **JavaScript:** For implementing interactive functionalities.  
 
 ## 🌐 Live Link:
+Site is live at [Simple Vote Manager](https://meahadi-hasan.github.io/Simple-Vote-Manager).
